@@ -1,5 +1,5 @@
-vimplus-startify: A start page plugin for vimplus
-===============================================
+vimplus-startify: A start page plugin for HarmonyVim
+=====================================================
 
 
 ![][1]
