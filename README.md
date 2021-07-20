@@ -1,4 +1,4 @@
-vimplus-startify: A start page plugin for HarmonyVim
+VimKylin-startify: A start page plugin for VimKylin
 =====================================================
 
 
